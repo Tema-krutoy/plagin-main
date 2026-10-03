@@ -1,0 +1,5 @@
+name: DoorGreeter
+version: 1.0.0
+main: ru.example.doorgreeter.DoorGreeter
+api-version: '1.21'
+description: Shift + ПКМ по двери пишет в чат "Здрасьте!"
